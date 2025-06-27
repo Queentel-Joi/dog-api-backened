@@ -1,1 +1,36 @@
-
+{
+  "breeds": [
+    {
+      "id": 1,
+      "name": "Golden Retriever",
+      "temperament": "Intelligent, Kind, Reliable, Friendly, Trustworthy",
+      "life_span": "10 - 12 years",
+      "origin": "UK, Scotland",
+      "image": "https://images.dog.ceo/breeds/retriever-golden/n02099601_2404.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pug",
+      "temperament": "Docile, Charming, Mischievous, Playful, Stubborn, Sociable",
+      "life_span": "12 - 15 years",
+      "origin": "China",
+      "image": "https://images.dog.ceo/breeds/pug/n02110958_1638.jpg"
+    },
+    {
+      "id": 3,
+      "name": "German Shepherd",
+      "temperament": "Intelligent, Loyal, Obedient, Curious, Confident",
+      "life_span": "9 - 13 years",
+      "origin": "Germany",
+      "image": "https://images.dog.ceo/breeds/germanshepherd/n02106662_16781.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chihuahua",
+      "temperament": "Devoted, Lively, Courageous, Aggressive",
+      "life_span": "12 - 20 years",
+      "origin": "Mexico",
+      "image": "https://images.dog.ceo/breeds/chihuahua/n02085620_4473.jpg"
+    }
+  ]
+}
